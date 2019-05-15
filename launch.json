@@ -23,7 +23,6 @@
       "type": "chrome",
       "request": "attach",
       "name": "attach against localhost",
-      // "address": "[::1]",
       "port": 9222,
       "urlFilter": "http://localhost:3000",
       "sourceMaps": true,
