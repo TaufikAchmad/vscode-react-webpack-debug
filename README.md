@@ -9,5 +9,6 @@ For attach configuration, make sure to launch chrome with the following paramete
 
 Mac:
 ```
-open /Applications/Google\ Chrome.app --args --enable-speech-input
+open /Applications/Google\ Chrome.app --args --remote-debugging-port=9222
+
 ```
